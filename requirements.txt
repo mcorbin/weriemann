@@ -1,0 +1,2 @@
+websockets==3.2
+Pygments==2.1.3
