@@ -1,2 +1,2 @@
-websockets==3.2
+websockets==8.0.2
 Pygments==2.1.3
